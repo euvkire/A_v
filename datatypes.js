@@ -94,3 +94,6 @@ x = x * 3;
 x = x / 9;
 x = x - 1;
 console.log(z = z % 10);
+let secret = 10;
+let guess = 5;
+console.log(guess == secret);
