@@ -97,3 +97,14 @@ console.log(z = z % 10);
 let secret = 10;
 let guess = 5;
 console.log(guess == secret);
+
+
+let myVar = 10;
+myVar*=2;
+console.log(myVar);
+
+
+
+
+
+
